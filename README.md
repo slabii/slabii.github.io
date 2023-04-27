@@ -12,4 +12,4 @@ Andover High School, Sep 2020 - May 2023
 - Took honors and Advanced Placement courses, including AP Physics C Electricity and Magnetism
 - Varsity captain of the Scholars’ Bowl team
 - 4.1 weighted GPA
-- 
+- [High school transcript](https://slabii.github.io/transcript-censored.pdf)
