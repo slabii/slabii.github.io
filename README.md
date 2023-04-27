@@ -13,5 +13,5 @@ Andover High School, Sep 2020 - May 2023[^1]
 - Varsity captain of the Scholars’ Bowl team
 - 4.1 weighted GPA
 [^1]: [High school transcript](https://slabii.github.io/transcript-censored.pdf). Also, I graduated early--after 3 years of high school.
-cream
+# shaft
 
