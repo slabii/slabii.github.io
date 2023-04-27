@@ -34,5 +34,6 @@ C++ programming language from research experience<br>
 Mathematical maturity from being years ahead in math<br>
 
 # Physics Olympiad
+Nationwide physics competition with roughly 6000 total contestants<br>
 [How to study for Physics Olympiad, from scratch to IPhO gold](https://slabii.github.io/How%20to%20study%20for%20USAPhO%20and%20IPhO.pdf)<br>
 
