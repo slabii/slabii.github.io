@@ -4,7 +4,9 @@ Wichita, KS<br>
 6slabi@gmail.com <br>
 
 # Biography
-Prospective physics major student with a background in computational physics and an interest in nuclear and particle physics, seeking to gather knowledge and contribute through research to the study of physics.
+Prospective physics major student with a background in computational physics and an interest in nuclear and particle physics, seeking to gather knowledge and contribute through research to the study of physics.<br><br>
+
+[My CV](https://slabii.github.io/cv.pdf)<br>
 
 # Education
 Andover High School, Sep 2020 - May 2023<br>
