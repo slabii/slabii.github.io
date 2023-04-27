@@ -1,7 +1,7 @@
 Sami Labidi <br>
 Wichita, KS<br>
-(316)-302-9890
-6slabi@gmail.com 
+(316)-302-9890<br>
+6slabi@gmail.com <br>
 
 # Biography
 Prospective physics major student with a background in computational physics and an interest in nuclear and particle physics, seeking to gather knowledge and contribute through research to the study of physics.
@@ -13,6 +13,25 @@ Andover High School, Sep 2020 - May 2023[^1]
 - Varsity captain of the Scholars’ Bowl team
 - 4.1 weighted GPA
 [^1]: [High school transcript](https://slabii.github.io/transcript-censored.pdf). Also, I graduated early--after 3 years of high school.
+
 # Experience
-Computational physics research 
+Computational physics research, Jun 2022 - Jan 2023<br>
+Kansas State University<br>
+- Assisted a physics professor and his team with research on light scattering
+- Collaborated with another researcher to make C++ code to run related calculations
+- Created and presented original research to the team
+
+# Achievements
+US Physics Team training camp invitee<br>
+ACTFL Silver Seal of Biliteracy in French<br>
+35 ACT composite score<br>
+PSAT/NMSQT Commendation<br>
+
+# Skills
+Problem-solving skills from countless hours of USAPhO preparation<br>
+C++ programming language from research experience<br>
+Mathematical maturity from being years ahead in math<br>
+
+
+
 
