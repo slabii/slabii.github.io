@@ -7,9 +7,9 @@ Wichita, KS
 Prospective physics major student with a background in computational physics and an interest in nuclear and particle physics, seeking to gather knowledge and contribute through research to the study of physics.
 
 # Education
-Andover High School, Sep 2020 - May 2023
+Andover High School[^1], Sep 2020 - May 2023
 - Concurrently took college classes at Butler Community College and Wichita State University, including Calculus 1 through Differential Equations, College Chemistry 1 and 2, and Physics 1 with lab
 - Took honors and Advanced Placement courses, including AP Physics C Electricity and Magnetism
 - Varsity captain of the Scholars’ Bowl team
 - 4.1 weighted GPA
-- [High school transcript](https://slabii.github.io/transcript-censored.pdf)
+[^1]: [High school transcript](https://slabii.github.io/transcript-censored.pdf)
