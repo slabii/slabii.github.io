@@ -8,11 +8,12 @@ Prospective physics major student with a background in computational physics and
 
 # Education
 Andover High School, Sep 2020 - May 2023
+[High school transcript](https://slabii.github.io/transcript-censored.pdf). I graduated early--after 3 years of high school.
 - Concurrently took college classes at Butler Community College and Wichita State University, including Calculus 1 through Differential Equations, College Chemistry 1 and 2, and Physics 1 with lab
 - Took honors and Advanced Placement courses, including AP Physics C Electricity and Magnetism
 - Varsity captain of the Scholars’ Bowl team
 - 4.1 weighted GPA<br>
-[High school transcript](https://slabii.github.io/transcript-censored.pdf). Also, I graduated early--after 3 years of high school.
+
 
 # Experience
 Computational physics research, Jun 2022 - Jan 2023<br>
