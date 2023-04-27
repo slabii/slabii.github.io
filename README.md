@@ -33,6 +33,6 @@ Problem-solving skills from countless hours of USAPhO preparation<br>
 C++ programming language from research experience<br>
 Mathematical maturity from being years ahead in math<br>
 
-
-
+# Physics Olympiad
+[How to study for Physics Olympiad, from scratch to gold at IPhO](
 
