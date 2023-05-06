@@ -13,3 +13,4 @@ Nationwide physics competition with roughly 6000 total contestants<br>
 
 # Other
 **Writing**<br>
+[The basics of training . . . for anything](https://slabii.github.io/training.pdf)<br>
