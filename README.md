@@ -1,6 +1,4 @@
 Sami Labidi <br>
-Wichita, KS<br>
-(316)-302-9890<br>
 6slabi@gmail.com <br>
 
 # Biography
