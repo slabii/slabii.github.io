@@ -14,4 +14,4 @@ Nationwide physics competition with roughly 6000 total contestants<br>
 # Other
 **Writing**<br>
 [The basics of training--for anything](https://slabii.github.io/training.pdf). This is a draft, and I'm considering adding sample training programs to demonstrate these principles in action. <br>
-[Undergrad curriculum resources](https://slabii.github.io/undergrad.md)<br>
+[Undergrad curriculum resources](https://slabii.github.io/undergrad.html)<br>
