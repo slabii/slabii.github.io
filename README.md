@@ -15,4 +15,5 @@ Nationwide physics competition with roughly 6000 total contestants<br>
 **Writing**<br>
 [The basics of training--for anything (draft)](https://slabii.github.io/training.pdf) <br>
 [Undergrad curriculum resources](https://slabii.github.io/undergrad.html)<br>
-My original [notes](https://slabii.github.io/difference_equations5-22.pdf) I created about difference equations and an interesting integral (draft)
+My original [notes](https://slabii.github.io/difference_equations.pdf) I created about difference equations and an interesting integral (draft)
+
