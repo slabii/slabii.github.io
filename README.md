@@ -11,8 +11,7 @@ Nationwide physics competition with roughly 6000 total contestants<br>
 [How to study for Physics Olympiad, from scratch to IPhO gold](https://slabii.github.io/How%20to%20study%20for%20USAPhO%20and%20IPhO.html)<br>
 [Helpful link for finding textbooks](https://libgen.rs)<br>
 
-# Other
-**Writing**<br>
+# Writing
 [The basics of training--for anything (draft)](https://slabii.github.io/training.pdf) <br>
 [Undergrad curriculum resources](https://slabii.github.io/undergrad.html)<br>
 My original [notes](https://slabii.github.io/difference_equations.pdf) I created about difference equations and an interesting integral (draft)
