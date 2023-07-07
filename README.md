@@ -10,6 +10,8 @@ Prospective physics major with a background in computational and competition phy
 Nationwide physics competition with roughly 6000 total contestants<br>
 [How to study for Physics Olympiad, from scratch to IPhO gold](https://slabii.github.io/How%20to%20study%20for%20USAPhO%20and%20IPhO.html)<br>
 [Helpful link for finding textbooks](https://libgen.rs)<br>
+Simulation lab I wrote: here is the problem statement, and here is the program (Mac only)
+
 
 # Writing
 [The basics of training--for anything (draft)](https://slabii.github.io/training.pdf) <br>
