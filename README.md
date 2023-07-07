@@ -10,7 +10,7 @@ Prospective physics major with a background in computational and competition phy
 Nationwide physics competition with roughly 6000 total contestants<br>
 [How to study for Physics Olympiad, from scratch to IPhO gold](https://slabii.github.io/How%20to%20study%20for%20USAPhO%20and%20IPhO.html)<br>
 [Helpful link for finding textbooks](https://libgen.rs)<br>
-Simulation lab I wrote: [here](https://slabii.github.io/pendulum_lab.pdf) is the problem statement, and [here](https://slabii.github.io/pendulum) is the program (Mac only)
+Simulation lab I wrote: [here](https://slabii.github.io/pendulum_lab.pdf) is the problem statement, and [here](pendulum 7-7-23, 1.23 PM.xcarchive.zip) is the program (Mac only). Unfortunately, I haven't gotten the program to work as a standalone executable. In order to use the program, please download Xcode, unzip the program, double-click the program (which will open it as an archive in Xcode), click "Distribute Content", verify that "Built Products" is selected, click "Next", choose a file path, then go to that file path and double-click your way through all of the folders until you find the executable. <br>
 
 
 # Writing
