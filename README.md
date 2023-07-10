@@ -4,7 +4,7 @@ Sami Labidi <br>
 # Biography
 Prospective physics major with a background in computational and competition physics and an interest in nuclear and particle physics, seeking to gather knowledge and contribute through research to the fundamental science. As a high school student graduating early and taking a gap year, I still haven't started undergrad, but that doesn't mean I'm lacking experience. <br><br>
 
-[My CV](https://slabii.github.io/cv.pdf)<br>
+My [CV](https://slabii.github.io/cv.pdf) and my [transcript](https://slabii.github.io/transcript.pdf)<br>
 
 # Physics Olympiad
 Nationwide physics competition with roughly 6000 total contestants<br>
