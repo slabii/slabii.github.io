@@ -1,14 +1,5 @@
 Sami Labidi <br>
 6slabi@gmail.com <br>
-
-<style>
-  h1 {
-    color:blue;
-  }
-
-  p {
-    color:red;
-  }
   
 </style>
 
