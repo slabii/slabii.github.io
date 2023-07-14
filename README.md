@@ -1,6 +1,10 @@
 Sami Labidi <br>
 6slabi@gmail.com <br>
 
+<div align="center">
+    <img src="style.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 # Biography
 Prospective physics major with a background in computational and competition physics and an interest in nuclear and particle physics, seeking to gather knowledge and contribute through research to the fundamental science. As a high school student graduating early and taking a gap year, I still haven't started undergrad, but that doesn't mean I'm lacking experience. <br><br>
 
