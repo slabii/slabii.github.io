@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
  <link rel="icon" type="image/x-icon" href="https://slabii.github.io/favicon.ico">
  
   <style>
     body {
       font-family: 'Verdana';
     }
-    h1 {
     
-    }
     
     a {
     color: blue;
@@ -19,21 +18,38 @@
     a:hover{
     color: LightBlue;
     }
-   
     
+    * {
+  	box-sizing: border-box;
+	}
+   	.row:after {
+ 	 content: "";
+ 	 display: table;
+ 	 clear: both;
+	}
+    .column {
+    float: left;
+    padding: 20px;
+    }
+    .left {
+    width:25%;
+    }
+    .right {
+    width:75%;
+    }
+   
   </style>
 <title>Sami Labidi</title>
 </head>
 <body>
 
-
-
-
-
-
-  <p>Sami Labidi</p>
-
-  <h1> Biography</h1>
+<div class="row">
+  <div class="column left">
+    <img src="Sami-Labidi.jpeg" alt="Sami Labidi" width="200" height="200">
+    <h3>Sami Labidi</h3>
+  </div>
+  <div class="column right">
+    <h2> Biography</h2>
   <p>Prospective physics major with a background in computational and competition physics 
     and an interest in nuclear and particle physics, 
     seeking to gather knowledge and contribute through research to the fundamental science.
@@ -42,6 +58,12 @@
 
   <p>My <a href="https://slabii.github.io/cv.pdf">CV</a> and my 
     <a href="https://slabii.github.io/transcript.pdf">transcript</a>.</p>
+    
+  </div>
+</div>
+
+
+
 
   <h1> Physics Olympiad</h1>
   <p>Yearly nationwide physics problem-solving competition with roughly 6000 participants</p>
@@ -57,5 +79,3 @@
  
 </body>
 </html>
-
-
