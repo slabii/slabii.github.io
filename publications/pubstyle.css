@@ -4,6 +4,7 @@ body {
     }
 #pub-body {
 	margin: auto;
+	text-align: left;
 	width: 70vw;
 }
     h1 {
