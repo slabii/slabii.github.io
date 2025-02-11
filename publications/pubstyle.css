@@ -1,8 +1,11 @@
 body {
     line-height: 1.7;
     font-family: 'Verdana';
-	width: 50%;
     }
+#pub-body{
+	text-align: center;
+	width: 70%;
+}
     h1 {
 	text-align: center;
     }
