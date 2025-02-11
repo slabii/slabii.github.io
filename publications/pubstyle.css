@@ -1,1 +1,32 @@
-
+body {
+    line-height: 1.7;
+    font-family: 'Verdana';
+    }
+    h1 {
+	text-align: center;
+    }
+    a {
+    color: blue;
+    text-decoration:none;
+    transition: 0.1s;
+    }
+    a:hover{
+    color: LightBlue;
+    }
+    
+    * {
+  	box-sizing: border-box;
+   }
+   .row:after {
+ 	 content: "";
+ 	 display: table;
+ 	 clear: both;
+    }
+    
+    .column {
+    float: left;
+    padding: 15px;
+    }
+    .left {
+    width:33%;
+    }
