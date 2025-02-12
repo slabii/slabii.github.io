@@ -9,7 +9,7 @@ body {
 }
 .topnav {
 	overflow: hidden;
-	
+	width: 100vw;
 }
 .nav-left {
 	
