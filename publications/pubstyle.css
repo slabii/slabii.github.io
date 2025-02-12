@@ -11,9 +11,20 @@ body {
 	overflow: hidden;
 	width: 100vw;
 }
-.nav-left {
-	
+.topnav a {
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
+.nav-left{
+	float: left;
+}
+.nav-right{
+	float: right;
+}
+
     h1 {
 	text-align: center;
     }
