@@ -5,7 +5,14 @@ body {
 #pub-body {
 	margin: auto;
 	text-align: left;
-	width: 70vw;
+	width: 60vw;
+}
+.topnav {
+	overflow: hidden;
+	
+}
+.nav-left {
+	
 }
     h1 {
 	text-align: center;
